@@ -1,2 +1,2 @@
 # git
-this is git
+this is git repository
